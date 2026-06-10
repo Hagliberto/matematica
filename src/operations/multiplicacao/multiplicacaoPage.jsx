@@ -1,0 +1,1 @@
+const MultiplicacaoPage = () => <OperationLayout operation="multiplicacao" title="Multiplicação de Frações" subtitle="Multiplique numerador com numerador e denominador com denominador." icon="bi-x-circle-fill" />;

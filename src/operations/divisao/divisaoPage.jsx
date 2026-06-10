@@ -1,0 +1,1 @@
+const DivisaoPage = () => <OperationLayout operation="divisao" title="Divisão de Frações" subtitle="Mantenha a primeira fração e multiplique pelo inverso das próximas." icon="bi-slash-circle-fill" />;
